@@ -1,0 +1,7 @@
+import matplotlib.pyplot as plt #importing the required module
+x=[1,2,3,4,5]
+y=[2,4,1,5,7]
+plt.xlabel('x axis')
+plt.ylabel('y axis')
+plt.plot(x,y)
+plt.show() #to show the plot/graph
